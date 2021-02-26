@@ -12,3 +12,5 @@ def display_rainbow(array)
   puts "I: #{colors[5]}"
   puts "V: #{colors[6]}"
 end
+
+display_rainbow(colors)
