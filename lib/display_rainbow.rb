@@ -4,5 +4,8 @@ def display_rainbow(color)
   print "R: #{color[0]}"
   print "R: #{color[0]}"
   print "R: #{color[0]}"
+  print "R: #{color[0]}"
+  
+  
   
 end  
